@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "1059304543440",
+    "firebase_url": "https://iumlelection-a724a-default-rtdb.firebaseio.com",
+    "project_id": "iumlelection-a724a",
+    "storage_bucket": "iumlelection-a724a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059304543440:android:8f620cd0875546d62ebad5",
+        "android_client_info": {
+          "package_name": "com.spine.iumlElection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3vs9TzoK62kJdaTYBvxeFMmrsX75yFNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059304543440:android:cfbb36b7a11b36512ebad5",
+        "android_client_info": {
+          "package_name": "com.spine.iumlForWayanad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3vs9TzoK62kJdaTYBvxeFMmrsX75yFNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059304543440:android:3f0431b471aa44082ebad5",
+        "android_client_info": {
+          "package_name": "com.spine.iumlmunnettam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3vs9TzoK62kJdaTYBvxeFMmrsX75yFNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059304543440:android:b835affb0dd0c4bc2ebad5",
+        "android_client_info": {
+          "package_name": "com.spine.iumlmunnettammonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3vs9TzoK62kJdaTYBvxeFMmrsX75yFNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059304543440:android:939f9bf4faf2f28b2ebad5",
+        "android_client_info": {
+          "package_name": "com.spine.munnettamiuml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3vs9TzoK62kJdaTYBvxeFMmrsX75yFNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059304543440:android:6b28c14b9d06fc5b2ebad5",
+        "android_client_info": {
+          "package_name": "com.spine.tea_gala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3vs9TzoK62kJdaTYBvxeFMmrsX75yFNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
